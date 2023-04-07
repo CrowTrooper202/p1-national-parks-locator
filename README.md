@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to [National ParkFinder](https://collylee.github.io/p1-national-parks-locator/), a page that is here to help you plan your next outdoor getaway. All of the travel options in the United States can be overwhelming to a budding traveler, but we've developed a page that helps to organize everything you need to know in one place.
+Welcome to [National ParkFinder](https://crowtrooper202.github.io/p1-national-parks-locator/), a page that is here to help you plan your next outdoor getaway. All of the travel options in the United States can be overwhelming to a budding traveler, but we've developed a page that helps to organize everything you need to know in one place.
 
 This application requires heavy lifting from two API calls, one from the National Parks Service to fetch park details, and another from MapBox to show the geographical location of the park. Luckily, the two APIs work well hand-in-hand, which allowed us to build an application that can all exist on one webpage. No need to get lost moving from link to link to view the selection of parks.
 
